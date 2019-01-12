@@ -1,0 +1,7 @@
+# Compiled class file
+*.class
+.idea/
+/application1/target
+/rz-smart-framework/target
+/application1/application1.iml
+/rz-smart-framework/rz-smart-framework.iml
